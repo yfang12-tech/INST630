@@ -1,0 +1,40 @@
+{
+    "states": [
+        {
+            "abbr": "2006",
+            "name": "FY2006",
+            "fund": "Alaska $3,506,757  Arkansas $3,328,503  California $3,255,445"
+        },
+        {
+            "abbr": "2007",
+            "name": "FY 2007",
+            "fund": "Arizona $5,954,518  Colorado $4,244,519  District of Columbia  $5,738,500"
+        },
+        {
+            "abbr": "2009",
+            "name": "FY 2009",
+            "fund": "Florida $2,450,000  Georgia $8,942,640  Hawaii $3,477,053"
+        },
+        {
+            "abbr": "2009ARRA",
+            "name": "FY 2009ARRA",
+            "fund": "Illinois $11,869,819  Kansas $9,060,442  Maine $7,315,000" 
+        },
+        {
+            "abbr": "2012",
+            "name": "FY 2012",
+            "fund": "Idaho $3,101,632  Kentucky $3,633,928  Maryland $3,963,473"
+        },
+        {
+            "abbr": "2015",
+            "name": "FY 2015",
+            "fund": "Pennsylvania $6,999,928  Tennessee $6,917,059  Utah $6,497,783"
+        },
+        {
+            "abbr": "2019",
+            "name": "FY 2019",
+            "fund": "Massachusetts $3,478,369  Montana $3,499,219  Nebraska $3,500,000"
+        }
+          
+    ]
+}
